@@ -57,3 +57,7 @@
 - 计算机网络可以节省成本
 
 ------
+
+## 思维导图
+
+![mindmap_section1](https://user-images.githubusercontent.com/78126591/200825886-0cdd9cf4-d1cc-4ab9-849f-f8608492a560.png)
